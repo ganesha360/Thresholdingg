@@ -31,8 +31,8 @@ Use Otsu's method to segment the image and display the results.
 
 ## Program
 ```
-Developed By : A.Anbuselvam
-Register Number : 212222240009
+Developed By : GANESH R
+Register Number : 212222240029
 ```
 
 ### Load the necessary packages:
